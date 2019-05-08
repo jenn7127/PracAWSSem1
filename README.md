@@ -1,1 +1,0 @@
-# PracAWSSem1
